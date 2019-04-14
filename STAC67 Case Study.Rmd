@@ -1,7 +1,6 @@
 ---
 title: 'STAC67 Case Study: A Model for Predicting Median Value of Homes in Boston'
-author: Group 04  / Yuhan Wang 1002917169 / Yiming Fu 1002928246 / Arda Erturk 1002937799  Syed
-  Zain Zafar 1002534705
+author: Syed Zain Zafar
 date: "April 5, 2019"
 output:
   word_document
